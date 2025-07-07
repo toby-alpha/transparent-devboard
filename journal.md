@@ -75,3 +75,51 @@ This solution turned out very well, and I really like how all the components fit
 The STEMMA-QT port really was able to tie it together, and it now looks pretty cohesive. The board outline is sorta tentative at the moment, but I really like the size as well.
 
 ### Time Spent - 2 Hours (5/07/25)
+
+## Day 3 - Routing 
+
+![image](https://i.ibb.co/ymbb39pJ/image.png)
+
+I started off by routing the differential part of USB Data tracks, unfortunately, due to the location of the module and port, and all the components on the surface, these had to go on the back layer, and got a bit cramped with other components.
+
+![image](https://i.ibb.co/mFt87R9P/image.png)
+
+This is how the top layer turned out. I decided to not use copper pour planes due to the possibility of making it transparent, and then this obviously ruining it.
+
+![image](https://i.ibb.co/cSksZg0J/image.png)
+
+and I made a kinda big-ish mistake. so my USB-C port is inline with the board, meaning there has to be a cutout. the way the traces are routed currently is umm.. prohibitive of this. the vias would uhh, not exist :)
+
+![image](https://i.ibb.co/7NCKTKbf/image.png)
+
+to fix this, I had to move everything to the otherside of the port. This created some challenges, and I had to move the I2C pull-up resistors in order to accomodate the vias for the data traces. This puzzle to get everything to fit took a while, but was very rewarding in the end.
+
+![image](https://i.ibb.co/wNmFQvx7/image.png)
+
+I'm very happy with how everything turned out looking. It's pretty much just as I had conceptualised, and perfectly meets my criteria.
+
+Tomorrow I'll be working on adding the silkscreen to the back, then getting it ready to ship.
+
+The routing was challenging, but really fun, and it ended up working very well.
+
+I ended up adding an extra hole to the breakout, just to make it fit nice.
+
+![image](https://i.ibb.co/8nTxRtb0/image.png)
+
+I also rounded all the traces, and tomorrow will just be doing some of the final checks, and the back silkscreen for the marking of the pinout.
+
+I'm very pleased with how this is turning out, and the skills that it's giving me.
+
+### Time Spent - 5 Hours (6/07/25)
+
+## Day 4 - Silkscreen
+
+I did some silkscreen on the back. I kept it pretty simple and professional, labelling all the breakout pints an buttons. Some of it probably should have gone on top, but unfortunately there is alot of space constraint due to everything being so tightly packed.
+
+![image](https://i.ibb.co/Z6mDWW0T/image.png)
+
+![image](https://i.ibb.co/fd0B13DH/image.png)
+
+I'm just now finalising the quotes with the supplier for the transparent PCB, but other than that, I'm ready to submit!!
+
+### Time Spent - 2 Hours (7/07/25)
