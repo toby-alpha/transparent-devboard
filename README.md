@@ -6,6 +6,8 @@
 
 The Dev Board is based off the ESP32 C3 Mini module. It contains a USB-C port, power LED, user LED, 3x WS2812B 2020 Adressable LEDs, >6V voltage input, as well as all GPIO being broken out. The USB-C connector is inline to conform to a slim profile. It also has a JST SH connector for i2C connections.
 
+It's specially manufactured from a transparent FR4 material to give it's unique look.
+
 ## Why I designed this?
 
 I was really intrigued with the concept of a transparent PCB, after seeing a JLCPCB advertisement for it. This prompted me to create an ESP devboard, that would be useful in many scenarios, while also exploring this new technology. The PCB also serves as a great method of education, showing inside of the complex electronics.
