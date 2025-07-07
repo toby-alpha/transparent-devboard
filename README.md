@@ -23,3 +23,9 @@ I was really intrigued with the concept of a transparent PCB, after seeing a JLC
 |JLCPCB (FR4 versions)    |15        |9.75      |JLCPCB    |                                                     |
 |                         |          |          |          |                                                     |
 |                         |Total     |224.25    |          |                                                     |
+
+
+![image](https://github.com/user-attachments/assets/31cbac09-d5a3-4a63-aa25-4b3ecd6ddfa4)
+
+![image](https://github.com/user-attachments/assets/9b8c5172-f489-4698-99fd-f02e51718967)
+
