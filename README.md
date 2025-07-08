@@ -21,12 +21,12 @@ I was really intrigued with the concept of a transparent PCB, after seeing a JLC
 
 |Item                     |Cost (AUD)|Cost (USD)|Source    |Link                                                 |
 |-------------------------|----------|----------|----------|-----------------------------------------------------|
-|Components Parts         |60        |39        |LCSC      |PDF Quote Upon Request                               |
-|Hot Plate                |80        |52        |Aliexpress|https://www.aliexpress.com/item/1005008125355441.html|
+|Components Parts         |45        |29        |LCSC      |PDF Quote Upon Request                               |
+|Hot Plate                |34        |22        |Aliexpress|[https://www.aliexpress.com/item/1005008125355441.html](https://www.aliexpress.com/item/1005007010531329.html)|
 |Misc (Solder Paste.. Etc)|30        |19.5      |Aliexpress|                                                     |
-|JLCPCB (FR4 versions)    |15        |9.75      |JLCPCB    |                                                     |
+|PCB + Stencil    |15        |9.75      |JLCPCB    |                                                     |
 |                         |          |          |          |                                                     |
-|                         |Total     |120   |          |                                                     |
+|                         |Total     |81   |          |                                                     |
 
 
 ![image](https://github.com/user-attachments/assets/31cbac09-d5a3-4a63-aa25-4b3ecd6ddfa4)
