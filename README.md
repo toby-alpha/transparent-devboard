@@ -2,7 +2,8 @@
 
 * unforchantly due to manufacturing constraints, the transparent board has to come to an end.. (it was 300USD for 20 transparents). I'll look for ways to produce it after this, and probably persue it as a personal endeavor.*
 
-<img width="869" alt="image" src="https://github.com/user-attachments/assets/a9b853f8-517b-4a64-bb8c-afdc0ab0d593" />
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/f4816f9a-de24-4ade-9dd0-cc9072686db4" />
+
 
 ![image](https://i.ibb.co/8Ddbs1wf/image.png)
 
