@@ -1,5 +1,9 @@
 # ESP32-C3 Based Transparent Dev Board
 
+* unforchantly due to manufacturing constraints, the transparent board has to come to an end.. (it was 300USD for 20 transparents). I'll look for ways to produce it after this, and probably persue it as a personal endeavor.*
+
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/a9b853f8-517b-4a64-bb8c-afdc0ab0d593" />
+
 ![image](https://i.ibb.co/8Ddbs1wf/image.png)
 
 ![image](https://i.ibb.co/7tr3q95Z/image.png)
@@ -16,13 +20,12 @@ I was really intrigued with the concept of a transparent PCB, after seeing a JLC
 
 |Item                     |Cost (AUD)|Cost (USD)|Source    |Link                                                 |
 |-------------------------|----------|----------|----------|-----------------------------------------------------|
-|Transparent PCB          |160       |104       |Alibaba   |PDF Quote Upon Request                               |
 |Components Parts         |60        |39        |LCSC      |PDF Quote Upon Request                               |
 |Hot Plate                |80        |52        |Aliexpress|https://www.aliexpress.com/item/1005008125355441.html|
 |Misc (Solder Paste.. Etc)|30        |19.5      |Aliexpress|                                                     |
 |JLCPCB (FR4 versions)    |15        |9.75      |JLCPCB    |                                                     |
 |                         |          |          |          |                                                     |
-|                         |Total     |224.25    |          |                                                     |
+|                         |Total     |120   |          |                                                     |
 
 
 ![image](https://github.com/user-attachments/assets/31cbac09-d5a3-4a63-aa25-4b3ecd6ddfa4)
