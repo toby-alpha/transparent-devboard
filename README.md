@@ -1,4 +1,4 @@
-# ESP32-C3 Based Transparent Dev Board
+# ESP32-C3 Based (not so) Transparent Dev Board
 
 * unforchantly due to manufacturing constraints, the transparent board has to come to an end.. (it was 300USD for 20 transparents). I'll look for ways to produce it after this, and probably persue it as a personal endeavor.*
 
